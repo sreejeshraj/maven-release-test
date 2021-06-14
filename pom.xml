@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.sreejesh</groupId>
     <artifactId>maven-release-test</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>maven-release-test</name>
     <description>Demo project for Maven Release</description>
 
@@ -31,7 +31,8 @@
         <connection>
             scm:git:git@github.com:sreejeshraj/maven-release-test.git
         </connection>
-   </scm>
+     <tag>maven-release-test-0.0.1</tag>
+  </scm>
     <dependencies>
          <dependency>
             <groupId>org.springframework.boot</groupId>
