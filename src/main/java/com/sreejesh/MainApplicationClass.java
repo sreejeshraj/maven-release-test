@@ -4,6 +4,12 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //Comment added to test deploy phase
+/*
+mvn versions:display-dependency-updates
+mvn versions:display-plugin-updates
+mvn versions:dependency-updates-report
+mvn versions:plugin-updates-report
+ */
 @SpringBootApplication
 public class MainApplicationClass {
 
