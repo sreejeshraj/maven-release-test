@@ -18,10 +18,12 @@
     </properties>
 
     <distributionManagement>
+        <!--Snapshot repository -->
         <snapshotRepository>
             <id>myLocalSnapShotSharedRepository</id>
             <url>file://D:/Sreejesh/Sreejesh/Code/maven-release-test/SnapShotsShared</url>
         </snapshotRepository>
+        <!--Release repository -->
         <repository>
             <id>myLocalSharedRepository</id>
             <url>file://D:/Sreejesh/Sreejesh/Code/maven-release-test/SharedRepository</url>

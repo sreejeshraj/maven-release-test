@@ -5,6 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //Comment added to test deploy phase
 /*
+mvn release:prepare
+mvn release:perform
+
 mvn versions:display-dependency-updates
 mvn versions:display-plugin-updates
 mvn versions:dependency-updates-report
