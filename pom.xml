@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.sreejesh</groupId>
     <artifactId>maven-release-test</artifactId>
-    <version>1.0.1-RC</version>
+    <version>1.0.2-SNAPSHOT</version>
     <name>maven-release-test</name>
     <description>Demo project for Maven Release</description>
 
@@ -33,7 +33,7 @@
         <connection>
             scm:git:git@github.com:sreejeshraj/maven-release-test.git
         </connection>
-     <tag>maven-release-test-1.0.1-RC</tag>
+     <tag>HEAD</tag>
   </scm>
     <dependencies>
          <dependency>
