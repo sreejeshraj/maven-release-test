@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //Comment added to test deploy phase
 /*
-Test Dryrun
+Test Dryrun1
 mvn release:prepare
 mvn release:perform
 
