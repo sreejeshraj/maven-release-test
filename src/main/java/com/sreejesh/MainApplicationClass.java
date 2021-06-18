@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //Comment added to test deploy phase
 /*
+
+Git Test 2
 Main Release prepare
 Second Demo
 mvn release:prepare
