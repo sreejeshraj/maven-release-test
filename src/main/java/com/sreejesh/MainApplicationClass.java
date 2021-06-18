@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 //Comment added to test deploy phase
 /*
-Main Release 1.0.0
+Main Release 1.0.0-CR
 mvn release:prepare
 mvn release:perform
 
